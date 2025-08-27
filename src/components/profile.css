@@ -1,0 +1,10 @@
+.social{
+      visibility: hidden
+}
+.out:hover .social{
+
+visibility: visible
+}
+.out:hover .outer{
+background-color:#1aa8a5;
+}

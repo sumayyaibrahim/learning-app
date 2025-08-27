@@ -1,0 +1,14 @@
+@media screen and (max-width: 480px) {
+ .margin{
+    margin-top: 130%;
+ }
+}
+@media screen and (min-width: 480px) {
+ .margin{
+    margin-top: 50%;
+ }
+}
+*{
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
