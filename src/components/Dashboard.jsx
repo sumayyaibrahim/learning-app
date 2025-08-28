@@ -11,7 +11,7 @@ import {  Link, useNavigate } from 'react-router-dom';
 
 function Dashboard() {
   const divStyle = {
-  backgroundImage:`url("/public/images/pexels-olly-3769021.jpg")`,
+  backgroundImage:`url("/images/pexels-olly-3769021.jpg")`,
   backgroundSize: 'cover',
   backgroundPosition: 'center',
   backgroundRepeat: 'no-repeat',

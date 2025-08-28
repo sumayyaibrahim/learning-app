@@ -1,5 +1,5 @@
 
-
+export const homebackground="/home/"
 
 export const homeAbout = [
   {
