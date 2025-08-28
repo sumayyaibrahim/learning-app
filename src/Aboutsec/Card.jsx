@@ -17,7 +17,7 @@ function Card() {
         <div className=" row w-100 m-0" style={{marginTop:'20px',marginBottom:'0px'}}>
             <div className=" w-100 col " style={{marginTop:'20px',marginBottom:'0px'}}>
 
-              <img  className=" w-100 w-md-50 w-lg-25"style={{ "maxHeight":"600px" ,marginTop:'0px',marginBottom:'0px' }} src="src/assets/pexels-karolina-grabowska-5908808.jpg"></img>
+              <img  className=" w-100 w-md-50 w-lg-25"style={{ "maxHeight":"600px" ,marginTop:'0px',marginBottom:'0px' }} src="/images/pexels-karolina-grabowska-5908808.jpg"></img>
                 </div>
                 <div className="col">
                   <h4 className='' style={{color:'#329c9bff'}}>LEARN ANYTHING</h4>

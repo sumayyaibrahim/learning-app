@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useNavigate, useParams } from 'react-router-dom';
-import { coursesCard } from '../assets/dummydata';
+
 import { Button, Col, Row } from 'react-bootstrap';
+import { coursesCard } from '../assets/dummydata';
 
 
 

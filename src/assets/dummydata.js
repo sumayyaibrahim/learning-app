@@ -1,3 +1,6 @@
+
+
+
 export const homeAbout = [
   {
     id: 1,
@@ -40,7 +43,7 @@ export const awrapper = [
 export const coursesCard = [
   {
     id: 1,
-    cover:" src/assets/course_1.png",
+    cover:" images/course_1.png",
 
     coursesName: "art & design",
     desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
@@ -57,7 +60,7 @@ export const coursesCard = [
   },
   {
     id: 2,
-    cover: " src/assets/course_2.png",
+    cover: " images/course_2.png",
     coursesName: "AI BG Removal SAAS App",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
     
@@ -74,7 +77,7 @@ export const coursesCard = [
   },
   {
     id: 3,
-    cover: " src/assets/course_3.png",
+    cover: " images/course_3.png",
     coursesName: "React Router In depth",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
     courTeacher: [
@@ -89,7 +92,7 @@ export const coursesCard = [
   },
   {
     id: 4,
-    cover: " src/assets/course_4.png",
+    cover: " images/course_4.png",
 
     coursesName: "E-Commerce MEARN App",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
@@ -105,7 +108,7 @@ export const coursesCard = [
   },
   {
     id: 5,
-    cover: "src/assets/course_1.png",
+    cover: "images/course_1.png",
     coursesName: "Text to image SAAS App",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
     courTeacher: [
@@ -120,7 +123,7 @@ export const coursesCard = [
   },
   {
     id: 6,
-    cover: "src/assets/course_2.png",
+    cover: "images/course_2.png",
     coursesName: "AI BG Removal SAAS App",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
     courTeacher: [
@@ -135,7 +138,7 @@ export const coursesCard = [
   },
   {
     id: 7,
-    cover: "src/assets/course_3.png",
+    cover: "images/course_3.png",
     
     coursesName: "React Router In Depth",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
@@ -151,7 +154,7 @@ export const coursesCard = [
   },
   {
     id: 8,
-    cover: "src/assets/course_4.png",
+    cover: "images/course_4.png",
     coursesName: "E-Commerce MEARN App",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
     courTeacher: [
@@ -166,7 +169,7 @@ export const coursesCard = [
   },
   {
     id: 9,
-    cover: "src/assets/course_2.png",
+    cover: "images/course_2.png",
     coursesName: "AI Bg Removal SAAS App",
      desc:"These skills will make you valuable to any organisation looking to improve performance through digital transformation and business analytics. Importantly, you’ll graduate with the adaptable mindset of continuous improvement needed to stay fresh at the forefront of the data science and technology industries. In addition, this degree opens up opportunities for further study and academic progression, including Level 7 qualifications such as a taught Master’s, a Master’s by Research.",
     courTeacher: [
@@ -182,37 +185,37 @@ export const coursesCard = [
 ]
 export const online = [
   {
-    cover: "src/assets/ui.jpeg",
+    cover: "images/ui.jpeg",
     hoverCover: "./images/courses/online/o1.1.png",
     courseName: "UI/UX Design Courses",
     course: "25 Courses",
   },
   {
-    cover: "src/assets/art.jpeg",
+    cover: "images/art.jpeg",
     hoverCover: "./images/courses/online/o2.1.png",
     courseName: "Art & Design",
     course: "25 Courses",
   },
   {
-    cover: "src/assets/comp.jpeg",
+    cover: "images/comp.jpeg",
     hoverCover: "./images/courses/online/o3.1.png",
     courseName: "Computer Science",
     course: "10 Courses",
   },
   {
-    cover: "src/assets/archi.jpeg",
+    cover: "images/archi.jpeg",
     hoverCover: "./images/courses/online/o4.1.png",
     courseName: "History & Archeologic",
     course: "15 Courses",
   },
   {
-    cover: "src/assets/soft.jpeg",
+    cover: "images/soft.jpeg",
     hoverCover: "./images/courses/online/o5.1.png",
     courseName: "Software Engineering",
     course: "30 Courses",
   },
   {
-    cover: "src/assets/information.jpeg",
+    cover: "images/information.jpeg",
     hoverCover: "./images/courses/online/o6.1.png",
     courseName: "Information Software",
     course: "60 Courses",
@@ -221,23 +224,23 @@ export const online = [
 ]
 export const team = [
   {
-    cover: "src/assets/profile_img2.png",
+    cover: "images/profile_img2.png",
     name: "Ph.D Brian Wooden",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "src/assets/profile_img.png",
+    cover: "images/profile_img.png",
     name: "Ph.D Anna Hanzen",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   }, 
   
   {
-    cover: "src/assets/profile_img.png",
+    cover: "images/profile_img.png",
     name: "Ph.D Anna Hanzen",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "src/assets/profile_img3.png",
+    cover: "images/profile_img3.png",
     name: "Ph.D Adrian Molises",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
@@ -355,20 +358,20 @@ export const testimonal = [
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "src/assets/profile1.jpeg",
+    cover: "/images/profile1.jpeg",
   },
   {
     id: 2,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "src/assets/profile2.jpeg",
+    cover: "/images/profile2.jpeg",
   },
   {
     id: 3,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "src/assets/profile3.jpeg",
+    cover: "/images/profile3.jpeg",
   },
 ]

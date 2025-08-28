@@ -4,7 +4,7 @@ import { Col, Container, Row } from 'react-bootstrap'
 
 function Wwrapper() {
   const sstyle={
-    backgroundImage:'url("src/assets/pexels-hillaryfox-1595389.jpg")',
+    backgroundImage:'url("/images/pexels-hillaryfox-1595389.jpg")',
     backgroundSize: 'cover',
   backgroundPosition: 'center',
   backgroundRepeat: 'no-repeat',

@@ -1,10 +1,11 @@
 import React from 'react'
-import { coursesCard } from '../assets/dummydata'
+
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { FaStar } from "react-icons/fa";
 import { useNavigate } from 'react-router-dom';
 import Animation from '../components/Animation';
+import { coursesCard } from '../assets/dummydata';
 
 function Coursehome() {
    const  navigate=useNavigate()

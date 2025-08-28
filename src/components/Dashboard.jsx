@@ -8,9 +8,10 @@ import Testimonial from './Testimonial';
 import Footer from '../footer/Footer';
 import {  Link, useNavigate } from 'react-router-dom';
 
+
 function Dashboard() {
   const divStyle = {
-  backgroundImage: `url("src/assets/pexels-olly-3769021.jpg")`,
+  backgroundImage:`url("/public/images/pexels-olly-3769021.jpg")`,
   backgroundSize: 'cover',
   backgroundPosition: 'center',
   backgroundRepeat: 'no-repeat',
